@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bencapp
 - 👀 I’m interested in web development, solving complicated problems, and visual design possibilities. 
-- 🌱 I’m currently learning about C# and .NET, and continuing to work in React.js.
+- 🌱 I’m currently learning about Typescript, and continuing to work in React.js.
 - 📫 How to reach me: bentucker333@gmail.com // 719-338-9138 // https://www.linkedin.com/in/ben-capp-119506170/
 
 <h3 align="left">Languages and Tools:</h3>
